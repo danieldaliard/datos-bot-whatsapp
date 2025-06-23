@@ -1,0 +1,47 @@
+[
+  {
+    "id": "PYT001",
+    "nombre": "Python para Data Science",
+    "descripcion": "Curso intensivo para aprender Python enfocado en análisis de datos, visualización y machine learning básico.",
+    "precio": "250 USD",
+    "duracion": "40 horas",
+    "modalidad": "Online Sincrónico",
+    "dias_cursada": "Martes y Jueves"
+  },
+  {
+    "id": "WEB002",
+    "nombre": "Desarrollo Web Fullstack",
+    "descripcion": "Aprende a construir aplicaciones web completas con frontend (React) y backend (Node.js).",
+    "precio": "400 USD",
+    "duracion": "80 horas",
+    "modalidad": "Presencial y Online",
+    "dias_cursada": "Lunes, Miércoles y Viernes"
+  },
+  {
+    "id": "DIS003",
+    "nombre": "Diseño UX/UI Avanzado",
+    "descripcion": "Curso para profesionales que buscan dominar las últimas tendencias en experiencia de usuario e interfaz.",
+    "precio": "300 USD",
+    "duracion": "50 horas",
+    "modalidad": "Online Asincrónico",
+    "dias_cursada": "A tu ritmo"
+  },
+  {
+    "id": "MKT004",
+    "nombre": "Marketing Digital Estratégico",
+    "descripcion": "Descubre cómo crear y ejecutar campañas de marketing digital efectivas para cualquier negocio.",
+    "precio": "200 USD",
+    "duracion": "30 horas",
+    "modalidad": "Online Sincrónico",
+    "dias_cursada": "Sábados"
+  },
+  {
+    "id": "CYB005",
+    "nombre": "Introducción a la Ciberseguridad",
+    "descripcion": "Fundamentos de ciberseguridad para proteger sistemas y datos contra amenazas comunes.",
+    "precio": "180 USD",
+    "duracion": "35 horas",
+    "modalidad": "Presencial",
+    "dias_cursada": "Martes y Jueves"
+  }
+]
